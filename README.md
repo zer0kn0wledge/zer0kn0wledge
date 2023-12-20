@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 💻 Use Linux as main
+
 ⚡ Love Python and Java
+
 🌱 Wanna try golang
+
 🫙 Tried Virtualization, Docker, and Kubernetes
+
 🧠 Tried GraphQL, MongoDB, MySQL
