@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 🫙 Tried Virtualization, Docker, and Kubernetes
 
-🧠 Tried GraphQL, MongoDB, MySQL
+🪵 REST-API, GraphQL
+
+🧠 Supabase, Firebase, MongoDB, MySQL
 
 🤔 Love OSINT
